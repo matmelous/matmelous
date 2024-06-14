@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Apps Development with React Native**
 
-- 💬 Ask me about **react ant react native**
+- 💬 Ask me about **Javascript, Typescript, ReactJS ant React Native**
 
 - 📫 How to reach me **matmelous@gmail.com**
 
